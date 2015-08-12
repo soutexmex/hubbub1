@@ -8,6 +8,7 @@
         <title>Hubbub&trade; Version 0 -- Users</title>
     </head>
     <body>
+        <p><img src="images/hubbub.png"/></p>
         <h1>Hubbub&trade; welcomes the following users:</h1>
         <c:forEach var="user" items="${users}">
             <fieldset>
